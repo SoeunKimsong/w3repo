@@ -10,3 +10,5 @@ Branch Testing ...
 direct commit
 
 git pull
+
+git push
