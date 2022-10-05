@@ -8,3 +8,5 @@ Soeun Kimsong
 Branch Testing ...
 
 direct commit
+
+git pull
